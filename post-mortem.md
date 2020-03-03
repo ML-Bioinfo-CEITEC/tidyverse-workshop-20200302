@@ -23,3 +23,10 @@
   1. Data transformation: "03-Transform" instead of "O2-Data-Transform" (e.g. slide 13)
   1. Tidy data: several slides have problem with formatting (most likely some conversion issues, e.g. slide 103)
   
+**Check-list before the next workshop:**
+
+  1. Power extension cords & WiFi access for participants
+  1. Red and green sticky notes
+  1. [Printed cheat-sheets](https://github.com/ML-Bioinfo-CEITEC/tidyverse-workshop-20200302/tree/master/RStudio_cheatsheets)
+  1. Intro slides (you need to change date and place, also names of instructors), practice the presentation
+  1. Check Logistics on [this page](https://education.rstudio.com/blog/2019/09/remaster-tidyverse/), do not forget to email participants with details and install instructions
