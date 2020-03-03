@@ -18,3 +18,8 @@
   1. Tidy data: slides 67-97 (everything excepth gather and spread) - to be removed
   1. Lists: slide 54-end to be removed (keep just lists and intro to map)
   
+**Other issues:**
+
+  1. Data transformation: "03-Transform" instead of "O2-Data-Transform" (e.g. slide 13)
+  1. Tidy data: several slides have problem with formatting (most likely some conversion issues, e.g. slide 103)
+  
